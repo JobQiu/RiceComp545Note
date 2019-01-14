@@ -1,6 +1,11 @@
+## what is supp(x)?
+
+![](https://ws1.sinaimg.cn/large/006tNc79ly1fz3rrgxeljj307k02q0sq.jpg)
+
+
 ## what is normal definite?
 
-${||x||} _\infty$
+<img src="https://latex.codecogs.com/gif.latex?%5Cleft%20%5C%7Cx%5Cleft%20%5C%7C%20_%5Cinfty" width="50px"/>
 
 Gives the largest magnitude among each element of a vector.
 

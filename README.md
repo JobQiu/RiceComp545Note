@@ -1,6 +1,6 @@
 # RiceComp545Note
 This is a repo for notes of Comp545 2019 Spring
-
+The official page of this course: https://akyrillidis.github.io/comp545/literature.html
 
 ## EE364A
 

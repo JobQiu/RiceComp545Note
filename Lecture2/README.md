@@ -19,9 +19,15 @@ This equation means the difference of f(x1) and f(x2) is less than the distance 
 
 https://en.wikipedia.org/wiki/Lipschitz_continuity#cite_note-3
 
+<img src="https://ws2.sinaimg.cn/large/006tNc79ly1fz86l73vdaj316w04kaat.jpg" width="550px"/>
+
 ### Calculate the matrix derivation.
 
 <img src="https://ws4.sinaimg.cn/large/006tNc79ly1fz85plwkk3j31gm0qvnc3.jpg" width="450px"/>
+
+A review of matrix derivative
+
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
 ### What is singular matrix?
 
@@ -45,6 +51,9 @@ A3. time bound, or the value does not change a lot anymore.
 
 <img src="https://ws4.sinaimg.cn/large/006tNc79ly1fz862egrf7j30vw03kjrx.jpg" width="450px"/>
 
+### Rate of convergence
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/ConvergencePlots.png" width="450px"/>
 
 ---
 
